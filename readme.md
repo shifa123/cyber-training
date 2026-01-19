@@ -9,3 +9,8 @@ FTP:
 2. User:       if0_40939029
 3. Pass:       zvSigCPkBZklJpK
 
+New FTP:
+
+1. Host: 15.207.114.186
+2. User: ftpuser
+3. Pass: password
