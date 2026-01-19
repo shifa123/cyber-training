@@ -5,7 +5,7 @@ Putty:
 2. Checksums: https://the.earth.li/~sgtatham/putty/0.83/md5sums
 
 FTP:
- Server:     ftpupload.net
+ Server:     ftpupload.net /n
  User:       if0_40939029
  Pass:       zvSigCPkBZklJpK
 
