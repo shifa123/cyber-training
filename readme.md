@@ -16,3 +16,5 @@ New FTP:
 3. Pass: password
 
 Kali Linux VM for Virtual BOX: https://cdimage.kali.org/kali-2025.4/kali-linux-2025.4-virtualbox-amd64.7z
+
+Nmap Cheatsheet: https://stationx-public-download.s3.us-west-2.amazonaws.com/nmap_cheet_sheet_v7.pdf
