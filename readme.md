@@ -38,7 +38,7 @@ nmap -iL ips.txt -oG (Grep)
 nmap -iL ips.txt -oX (XML)
 nmap -iL ips.txt -oA (All formats)
 
-> nc -z 192.168.82.43 1-100
-> nc -lvp 4444 > file.txt
-> cat file.txt
-> nc -lvp 4444 > file.txt
+1. nc -z 192.168.82.43 1-100
+2. nc -lvp 4444 > file.txt
+3. cat file.txt
+4. nc -lvp 4444 > file.txt
