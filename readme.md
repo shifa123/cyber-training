@@ -14,3 +14,5 @@ New FTP:
 1. Host: 15.207.114.186
 2. User: ftpuser
 3. Pass: password
+
+Kali Linux VM for Virtual BOX: https://cdimage.kali.org/kali-2025.4/kali-linux-2025.4-virtualbox-amd64.7z
