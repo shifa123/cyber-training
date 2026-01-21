@@ -48,3 +48,4 @@ Download File using wget:
 
 SecLists Passwords Wordlist:
 1. https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials
+2. Indian Wordlists : https://github.com/zxcv32/indian-wordlist/blob/main/indian-passwords#L23
