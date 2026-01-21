@@ -42,3 +42,6 @@ nmap -iL ips.txt -oA (All formats)
 2. nc -lvp 4444 > file.txt
 3. cat file.txt
 4. nc -lvp 4444 > file.txt
+
+Download File using wget:
+1. wget "https://raw.githubusercontent.com/WillieStevenson/top-100-passwords/refs/heads/master/password-list.txt"
