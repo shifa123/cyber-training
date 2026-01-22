@@ -58,3 +58,5 @@ Password Checker : https://www.passwordmonster.com/
 Validate Email: https://verifalia.com/validate-email
 
 ShellPhish: https://github.com/AbirHasan2005/ShellPhish
+
+Ransomware: https://github.com/guilhermej/py_ransomware/tree/master
