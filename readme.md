@@ -49,3 +49,6 @@ Download File using wget:
 SecLists Passwords Wordlist:
 1. https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials
 2. Indian Wordlists : https://github.com/zxcv32/indian-wordlist/blob/main/indian-passwords#L23
+
+Kali Purple VDI to run with Virtual Box:
+https://drive.google.com/file/d/1kzgkxQ67IKa4tOx85jh9KSXf8SwjFYny/view?usp=sharing
