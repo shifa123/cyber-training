@@ -54,3 +54,5 @@ Kali Purple VDI to run with Virtual Box:
 https://drive.google.com/file/d/1kzgkxQ67IKa4tOx85jh9KSXf8SwjFYny/view?usp=sharing
 
 Password Checker : https://www.passwordmonster.com/
+
+Validate Email: https://verifalia.com/validate-email
