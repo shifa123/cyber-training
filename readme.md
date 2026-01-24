@@ -67,3 +67,8 @@ Steago: https://futureboy.us/stegano/
 Email Header Analysis: https://mha.azurewebsites.net/
 
 Alexa Top 1 M Websites: https://github.com/mozilla/cipherscan/tree/master/top1m
+
+Shell Script to check Email Spoofing: 
+1. cat targets.txt| while read host do; do dig +short TXT $host | grep "\-all" && print $host "Not VULN"  || print $host "VULN";done
+
+2. cat targets.txt| while read host do; do dig +short TXT $host | grep "\-all" && echo -e '\e[0;31m' $host "Not VULN"  || echo -e '\e[0;32m' $host "VULN";done
