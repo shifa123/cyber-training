@@ -72,3 +72,6 @@ Shell Script to check Email Spoofing:
 1. cat targets.txt| while read host do; do dig +short TXT $host | grep "\-all" && print $host "Not VULN"  || print $host "VULN";done
 
 2. cat targets.txt| while read host do; do dig +short TXT $host | grep "\-all" && echo -e '\e[0;31m' $host "Not VULN"  || echo -e '\e[0;32m' $host "VULN";done
+
+Chrome Extension:
+1. Link Grabber: https://chromewebstore.google.com/detail/link-grabber/caodelkhipncidmoebgbbeemedohcdma?hl=en-GB&utm_source=ext_sidebar
