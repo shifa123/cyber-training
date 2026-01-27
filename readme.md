@@ -76,3 +76,5 @@ Shell Script to check Email Spoofing:
 Chrome Extension:
 1. Chrome: Link Grabber: https://chromewebstore.google.com/detail/link-grabber/caodelkhipncidmoebgbbeemedohcdma?hl=en-GB&utm_source=ext_sidebar
 2. FireFox: addons.mozilla.org/en-US/firefox/addon/link-gopher/
+
+Best DNS Wordlist: https://wordlists.assetnote.io/
