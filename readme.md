@@ -77,4 +77,7 @@ Chrome Extension:
 1. Chrome: Link Grabber: https://chromewebstore.google.com/detail/link-grabber/caodelkhipncidmoebgbbeemedohcdma?hl=en-GB&utm_source=ext_sidebar
 2. FireFox: addons.mozilla.org/en-US/firefox/addon/link-gopher/
 
-Best DNS Wordlist: https://wordlists.assetnote.io/
+Best DNS Wordlist: 
+1. https://wordlists.assetnote.io/
+2. wget "https://wordlists-cdn.assetnote.io/data/manual/best-dns-wordlist.txt"
+
