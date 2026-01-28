@@ -81,3 +81,5 @@ Best DNS Wordlist:
 1. https://wordlists.assetnote.io/
 2. wget "https://wordlists-cdn.assetnote.io/data/manual/best-dns-wordlist.txt"
 
+Rockyou Wordlist: https://weakpass.com/download/90/rockyou.txt.gz
+
