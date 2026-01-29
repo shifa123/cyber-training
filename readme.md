@@ -83,3 +83,12 @@ Best DNS Wordlist:
 
 Rockyou Wordlist: https://weakpass.com/download/90/rockyou.txt.gz
 
+Lab Details: https://labs.hacktify.in/index.php
+Creds:
+1. user1@gmail.com | password1
+2. user2@gmail.com | password2
+3. user3@gmail.com | password3
+4. user4@gmail.com | password4
+5. user5@gmail.com | password5
+
+
